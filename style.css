@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+.header .main-header ul{
+    background-color: black;
+    padding: 20px 30px;
+}
+
+
+.header .main-header ul li{
+    list-style-type: none;
+    display: inline-block;
+
+}
+
+
+.header .main-header ul li a{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+
+}   
+
+
+
+
+
+
+
